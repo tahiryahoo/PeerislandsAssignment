@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerislandXmlParsor", "PeerislandXmlParsor\PeerislandXmlParsor.csproj", "{A00BE776-1B7F-44C9-8C2C-5EC6002C61A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00BE776-1B7F-44C9-8C2C-5EC6002C61A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00BE776-1B7F-44C9-8C2C-5EC6002C61A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00BE776-1B7F-44C9-8C2C-5EC6002C61A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00BE776-1B7F-44C9-8C2C-5EC6002C61A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DAF305E-2FA3-4DD4-B526-8F32EA371EAB}
+	EndGlobalSection
+EndGlobal

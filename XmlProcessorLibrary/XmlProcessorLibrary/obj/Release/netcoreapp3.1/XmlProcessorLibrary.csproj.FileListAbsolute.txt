@@ -1,0 +1,9 @@
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\bin\Release\netcoreapp3.1\XmlProcessorLibrary.deps.json
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\bin\Release\netcoreapp3.1\XmlProcessorLibrary.dll
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\bin\Release\netcoreapp3.1\XmlProcessorLibrary.pdb
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\obj\Release\netcoreapp3.1\XmlProcessorLibrary.csprojAssemblyReference.cache
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\obj\Release\netcoreapp3.1\XmlProcessorLibrary.AssemblyInfoInputs.cache
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\obj\Release\netcoreapp3.1\XmlProcessorLibrary.AssemblyInfo.cs
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\obj\Release\netcoreapp3.1\XmlProcessorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\obj\Release\netcoreapp3.1\XmlProcessorLibrary.dll
+C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\obj\Release\netcoreapp3.1\XmlProcessorLibrary.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>XmlProcessorLibrary</id>
+    <version>1.0.0</version>
+    <authors>XmlProcessorLibrary</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Library to read/write xml.</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Tahir.Mulani\source\repos\XmlProcessorLibrary\XmlProcessorLibrary\bin\Debug\netcoreapp3.1\XmlProcessorLibrary.dll" target="lib\netcoreapp3.1\XmlProcessorLibrary.dll" />
+  </files>
+</package>
