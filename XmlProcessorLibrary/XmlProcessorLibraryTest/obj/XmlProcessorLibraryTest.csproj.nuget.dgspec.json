@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibraryTest\\XmlProcessorLibraryTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibraryTest\\XmlProcessorLibraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibraryTest\\XmlProcessorLibraryTest.csproj",
+        "projectName": "XmlProcessorLibraryTest",
+        "projectPath": "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibraryTest\\XmlProcessorLibraryTest.csproj",
+        "packagesPath": "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibraryTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tahir.Mulani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cfainstitute.pkgs.visualstudio.com/_packaging/CFA-Artifacts/nuget/v3/index.json": {},
+          "https://cfainstitute.pkgs.visualstudio.com/_packaging/CFA-NETCore/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibrary\\XmlProcessorLibrary.csproj": {
+                "projectPath": "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibrary\\XmlProcessorLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "AutoFixture.Xunit2": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq.AutoMock": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibrary\\XmlProcessorLibrary.csproj": {
+      "version": "1.0.2",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibrary\\XmlProcessorLibrary.csproj",
+        "projectName": "XmlProcessorLibrary",
+        "projectPath": "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibrary\\XmlProcessorLibrary.csproj",
+        "packagesPath": "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tahir.Mulani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cfainstitute.pkgs.visualstudio.com/_packaging/CFA-Artifacts/nuget/v3/index.json": {},
+          "https://cfainstitute.pkgs.visualstudio.com/_packaging/CFA-NETCore/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

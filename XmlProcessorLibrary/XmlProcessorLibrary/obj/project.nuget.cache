@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "stSKlKiPJejp5LIDyOaMyYQBnhut4hGsR6iILZB/SND/+FfQ6NTi5QJsjxsZgqzPY85Y5Y9KGCC1hIxF/F0kFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tahir.Mulani\\source\\repos\\XmlProcessorLibrary\\XmlProcessorLibrary\\XmlProcessorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.0\\microsoft.aspnetcore.http.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.0\\microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "R++RRHdRlJFVnDUNnWANLAE7qrjtXtFWJ0P2XkqUTAQ7y6D5lHq8v9bmBMv4x2DWxVdU4Re6Xvq5skGY4BmOcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tahir.Mulani\\source\\repos\\PeerislandsAssignment\\PeerislandXmlParsor\\PeerislandXmlParsor\\PeerislandXmlParsor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.0\\microsoft.aspnetcore.http.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.0\\microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tahir.Mulani\\.nuget\\packages\\xmlparserlibrary\\1.0.0\\xmlparserlibrary.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
